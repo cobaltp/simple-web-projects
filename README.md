@@ -1,3 +1,3 @@
-# Web Landing Tutorial 1
+# Simple Web Projects
 
-Simple landing page project for learning front-end development.
+Simple web projects for learning full-stack web development.
